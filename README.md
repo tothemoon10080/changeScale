@@ -1,5 +1,5 @@
 # changeScale
-Powershell script to modify system registry to reset system scaling
+Powershell script to modify system registry to reset system scaling（Powershell脚本修改系统注册表以重置系统缩放）
 
 ## 如何使用
 1. 按下Win+R在输入栏中输入cmd 打开CMD
